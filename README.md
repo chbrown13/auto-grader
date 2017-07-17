@@ -6,7 +6,7 @@ This project examines the impact of integrating automated program repair in comp
 
 ### Instructions to run patch grading tool:
 
-* git clone https://github.ncsu.edu/dcbrow10/auto-grader.git
+* git clone https://github.ncsu.edu/chbrown13/auto-grader.git
 * git clone https://github.com/ProgramRepair/IntroClass.git (Follow instructions to build and make [IntroClass](https://github.com/ProgramRepair/IntroClass))
 * cd IntroClass/
 * make
