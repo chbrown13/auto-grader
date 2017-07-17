@@ -1,5 +1,7 @@
 # Auto-Grader
 
+NC State Unviersity
+
 CSC791: Automated Program Repair, Independent Study with Guoliang Jin
 
 This project examines the impact of integrating automated program repair in computer science education. I developed a new project grading algorithm based on generated patches and evaluated it on introductory programming assignments from the [IntroClass](https://github.com/ProgramRepair/IntroClass) program repair benchmark. More details and my findings can be found in paper/project.pdf.
