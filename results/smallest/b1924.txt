@@ -1,0 +1,36 @@
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 76.7902337987
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 81.0416666667
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 76.7902337987
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 81.0416666667
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 76.7902337987
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 88.1931676314
+	Student= 81.0416666667
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

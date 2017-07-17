@@ -1,0 +1,72 @@
+Submission: 003
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 002
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 001
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 006
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 005
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 004
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 003
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 002
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 001
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 006
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 005
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 004
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 003
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 002
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 001
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 006
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 005
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308
+Submission: 004
+	Grade= 69.2307692308
+	SearchRepair= 69.2307692308
+	Student= 69.2307692308

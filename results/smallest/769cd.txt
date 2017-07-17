@@ -1,0 +1,108 @@
+Submission: 010
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 91.014957265
+Submission: 011
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 96.5850296862
+	Student= 86.6748833757
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 96.4877421906
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 96.4831349206
+	Student= 75.0
+Submission: 007
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5
+Submission: 006
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 81.8723290598
+Submission: 004
+	Grade= 68.75
+	SearchRepair= 84.2214209402
+	Student= 82.0192307692
+Submission: 009
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5
+Submission: 010
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 91.014957265
+Submission: 011
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 96.5850296862
+	Student= 86.6748833757
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 96.4877421906
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 96.4831349206
+	Student= 75.0
+Submission: 007
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5
+Submission: 006
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 81.8723290598
+Submission: 004
+	Grade= 68.75
+	SearchRepair= 84.2214209402
+	Student= 82.0192307692
+Submission: 009
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5
+Submission: 010
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 91.014957265
+Submission: 011
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 96.5850296862
+	Student= 86.6748833757
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 96.4877421906
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 96.4831349206
+	Student= 75.0
+Submission: 007
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5
+Submission: 006
+	Grade= 75.0
+	SearchRepair= 96.6239316239
+	Student= 81.8723290598
+Submission: 004
+	Grade= 68.75
+	SearchRepair= 84.2214209402
+	Student= 82.0192307692
+Submission: 009
+	Grade= 87.5
+	SearchRepair= 87.5
+	Student= 87.5

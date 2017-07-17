@@ -1,0 +1,100 @@
+Submission: 003
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 006
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 005
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 72.117003367
+Submission: 004
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 65.6628787879
+Submission: 003
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 006
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 005
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 72.117003367
+Submission: 004
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 65.6628787879
+Submission: 003
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 006
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 005
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 72.117003367
+Submission: 004
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 65.6628787879
+Submission: 003
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 006
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 005
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 72.117003367
+Submission: 004
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 65.6628787879
+Submission: 003
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 62.5
+Submission: 006
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 005
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 72.117003367
+Submission: 004
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 65.6628787879

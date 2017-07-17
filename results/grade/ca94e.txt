@@ -1,0 +1,24 @@
+Submission: 000
+	Grade= 33.3333333333
+	SearchRepair= 66.7381833128
+	Student= 78.1545530493
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 33.3333333333
+	SearchRepair= 66.7381833128
+	Student= 78.1545530493
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 33.3333333333
+	SearchRepair= 66.7381833128
+	Student= 78.1545530493
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

@@ -1,0 +1,192 @@
+Submission: 019
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 021
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 020
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 010
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 011
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 012
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 013
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 007
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 006
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 016
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 017
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 018
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 014
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 009
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 008
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 015
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 019
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 021
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 020
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 010
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 011
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 012
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 013
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 007
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 006
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 016
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 017
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 018
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 014
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 009
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 008
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 015
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 019
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 021
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 020
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 010
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 011
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 012
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 013
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 007
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 006
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 016
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 017
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 018
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 014
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 009
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 008
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077
+Submission: 015
+	Grade= 92.3076923077
+	SearchRepair= 92.3076923077
+	Student= 92.3076923077

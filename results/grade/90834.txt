@@ -1,0 +1,48 @@
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 013
+	Grade= 88.8888888889
+	SearchRepair= 96.0673952641
+	Student= 97.779956427
+Submission: 018
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 013
+	Grade= 88.8888888889
+	SearchRepair= 96.0673952641
+	Student= 97.779956427
+Submission: 018
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 96.0725131262
+	Student= 88.8888888889
+Submission: 013
+	Grade= 88.8888888889
+	SearchRepair= 96.0673952641
+	Student= 97.779956427
+Submission: 018
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

@@ -1,0 +1,80 @@
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 005
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 004
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 005
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 004
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 005
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 004
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 003
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 002
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 001
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 005
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0
+Submission: 004
+	Grade= 75.0
+	SearchRepair= 93.0819029026
+	Student= 75.0

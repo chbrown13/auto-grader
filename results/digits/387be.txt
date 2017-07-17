@@ -1,0 +1,40 @@
+Submission: 002
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 70.1611261872
+Submission: 002
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 70.1611261872
+Submission: 002
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 70.1611261872
+Submission: 002
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 70.1611261872
+Submission: 002
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 001
+	Grade= 62.5
+	SearchRepair= 62.5
+	Student= 70.1611261872

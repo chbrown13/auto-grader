@@ -1,0 +1,108 @@
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 012
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 003
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 002
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 001
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 005
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 004
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 009
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 73.7373171491
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 012
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 003
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 002
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 001
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 005
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 004
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 009
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 73.7373171491
+Submission: 010
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 011
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 012
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 003
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 002
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 001
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 005
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 004
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 44.4444444444
+Submission: 009
+	Grade= 44.4444444444
+	SearchRepair= 44.4444444444
+	Student= 73.7373171491

@@ -1,0 +1,160 @@
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.5085978836
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.5085978836
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.5085978836
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.5085978836
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.6574074074
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.6574074074
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.6574074074
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 011
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 012
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 56.25
+Submission: 013
+	Grade= 56.25
+	SearchRepair= 56.25
+	Student= 88.6574074074
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

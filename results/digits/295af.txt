@@ -1,0 +1,80 @@
+Submission: 003
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.3319657016
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.4788454723
+Submission: 001
+	Grade= 37.5
+	SearchRepair= 37.5
+	Student= 70.0717703349
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.3319657016
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.4788454723
+Submission: 001
+	Grade= 37.5
+	SearchRepair= 37.5
+	Student= 70.0717703349
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.3319657016
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.4788454723
+Submission: 001
+	Grade= 37.5
+	SearchRepair= 37.5
+	Student= 70.0717703349
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.3319657016
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.4788454723
+Submission: 001
+	Grade= 37.5
+	SearchRepair= 37.5
+	Student= 70.0717703349
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.3319657016
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 97.4788454723
+Submission: 001
+	Grade= 37.5
+	SearchRepair= 37.5
+	Student= 70.0717703349
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

@@ -1,0 +1,40 @@
+Submission: 000
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 82.3341368228
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 82.3341368228
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 82.3341368228
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 82.3341368228
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 82.3341368228
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

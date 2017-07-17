@@ -1,0 +1,96 @@
+Submission: 016
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 007
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 97.1766381766
+Submission: 006
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 005
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 004
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 016
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 007
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 97.1766381766
+Submission: 006
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 005
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 004
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 016
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 007
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 97.1766381766
+Submission: 006
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 005
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889
+Submission: 004
+	Grade= 88.8888888889
+	SearchRepair= 88.8888888889
+	Student= 88.8888888889

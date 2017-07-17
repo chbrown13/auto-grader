@@ -1,0 +1,140 @@
+Submission: 011
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 012
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 010
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 96.8000146313
+Submission: 001
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 009
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 008
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 011
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 012
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 010
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 96.8000146313
+Submission: 001
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 009
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 008
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 011
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 012
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 010
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 96.8000146313
+Submission: 001
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 009
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 008
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 011
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 012
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 010
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 96.8000146313
+Submission: 001
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 009
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 008
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 011
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 012
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 010
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 002
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 96.8000146313
+Submission: 001
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 009
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 008
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75

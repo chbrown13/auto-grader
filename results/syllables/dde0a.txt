@@ -1,0 +1,48 @@
+Submission: 009
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 008
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 007
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 009
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 008
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 007
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 009
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 008
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 007
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 009
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 008
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75
+Submission: 007
+	Grade= 68.75
+	SearchRepair= 68.75
+	Student= 68.75

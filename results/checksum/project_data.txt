@@ -1,0 +1,4 @@
+Basic Average= 74.8903508772 A= 18 B= 17 C= 2 D= 0 F= 20
+Automated Average= 74.8903508772 A= 18 B= 17 C= 2 D= 0 F= 20
+Human Average= 81.9042615528 A= 27 B= 12 C= 2 D= 1 F= 15
+Patch Average= 78.397306215

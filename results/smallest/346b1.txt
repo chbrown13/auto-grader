@@ -1,0 +1,120 @@
+Submission: 010
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 003
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 43.75
+Submission: 011
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 64.3839317613
+Submission: 007
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 006
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 61.2642908181
+Submission: 005
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 004
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 85.0140393101
+Submission: 009
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 008
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 003
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 43.75
+Submission: 011
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 64.3839317613
+Submission: 007
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 006
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 61.2642908181
+Submission: 005
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 004
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 85.0140393101
+Submission: 009
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 008
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 010
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 003
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 43.75
+Submission: 011
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 64.3839317613
+Submission: 007
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 006
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 61.2642908181
+Submission: 005
+	Grade= 93.75
+	SearchRepair= 93.75
+	Student= 93.75
+Submission: 004
+	Grade= 43.75
+	SearchRepair= 43.75
+	Student= 85.0140393101
+Submission: 009
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 008
+	Grade= 0.0
+	SearchRepair= 0.0
+	Student= 66.3135271526
+Submission: 015
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

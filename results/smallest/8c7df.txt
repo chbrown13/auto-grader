@@ -1,0 +1,96 @@
+Submission: 003
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 007
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 006
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 005
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 004
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 008
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 50.0
+Submission: 003
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 007
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 006
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 005
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 004
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 008
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 50.0
+Submission: 003
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 002
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 001
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 007
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 006
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 005
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 004
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 81.0416666667
+Submission: 008
+	Grade= 50.0
+	SearchRepair= 86.2639710717
+	Student= 50.0

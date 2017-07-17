@@ -1,0 +1,144 @@
+Submission: 010
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 011
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 012
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 013
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 007
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 015
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 016
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 017
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 018
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 014
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 009
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 008
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 010
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 011
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 012
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 013
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 007
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 015
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 016
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 017
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 018
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 014
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 009
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 008
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 010
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 011
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 012
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 013
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 007
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 015
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 016
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 017
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 018
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 014
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 009
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111
+Submission: 008
+	Grade= 11.1111111111
+	SearchRepair= 11.1111111111
+	Student= 11.1111111111

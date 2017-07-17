@@ -1,0 +1,24 @@
+Submission: 001
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 43.75
+	SearchRepair= 76.0456730769
+	Student= 82.4673855165
+Submission: 001
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 43.75
+	SearchRepair= 76.0456730769
+	Student= 82.4673855165
+Submission: 001
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 000
+	Grade= 43.75
+	SearchRepair= 76.0456730769
+	Student= 82.4673855165

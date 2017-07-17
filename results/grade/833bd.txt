@@ -1,0 +1,48 @@
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 97.7858614677
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 97.7858614677
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 003
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 97.7858614677
+Submission: 002
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 001
+	Grade= 88.8888888889
+	SearchRepair= 95.9183548189
+	Student= 88.8888888889
+Submission: 005
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0

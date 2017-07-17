@@ -1,0 +1,64 @@
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.1041033435
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.1041033435
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.1041033435
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.1041033435
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.2529128673
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.2529128673
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.2529128673
+Submission: 007
+	Grade= 100.0
+	SearchRepair= 100.0
+	Student= 100.0
+Submission: 006
+	Grade= 6.25
+	SearchRepair= 6.25
+	Student= 68.2529128673
